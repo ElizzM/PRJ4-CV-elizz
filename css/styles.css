@@ -49,3 +49,15 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.background-header {
+	background-color: greenyellow;
+}
+
+.new-font {
+	font-family: 'Genos', sans-serif;
+}
+
+.new-fontcolor {
+	color: darkmagenta;
+}
