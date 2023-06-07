@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"sans-serif;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace", sans-serif;
 	color: #202030;
 	background-color: #308903;
 }
